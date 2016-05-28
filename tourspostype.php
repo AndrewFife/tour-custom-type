@@ -1,20 +1,12 @@
 <?php
 /**
- 
 * Plugin Name: Tours Custom post type
- 
 * Plugin URI: ucc.co.za
- 
 * Description: A plugin to create a custom post type for Tours
- 
 * Version:  1.0
- 
 * Author: Andrew Fife
- 
 * Author URI:ucc.co.za
- 
 * License:  GPL2
- 
 */
 
 // Register Custom Post Type
