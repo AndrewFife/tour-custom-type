@@ -1,3 +1,4 @@
+<?php
 /**
  
 * Plugin Name: Tours Custom post type
